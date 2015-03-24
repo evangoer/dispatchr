@@ -1,4 +1,1 @@
-module.exports = {
-    BaseStore: require('./BaseStore'),
-    createStore: require('./createStore')
-};
+throw new Error("require('fluxible/utils') has moved to require('fluxible/addons')");
